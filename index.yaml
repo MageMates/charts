@@ -3,11 +3,11 @@ entries:
   example:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-23T00:17:47.711403+01:00"
+    created: "2019-12-23T00:21:24.545518+01:00"
     description: A Helm chart for Kubernetes
-    digest: 97e64cf756d2f4aa7b803f41466f7b9488b6a43d6566663792df304ecbe8802e
+    digest: 34f79e089d086eb2a9922593e80afb57252900ca8005b8a70fe8b11d3ea0bd1b
     name: example
     urls:
     - https://magemates.github.io/charts/example-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-23T00:17:47.710003+01:00"
+generated: "2019-12-23T00:21:24.544938+01:00"
